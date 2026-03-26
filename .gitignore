@@ -42,5 +42,3 @@ logs/
 !.env.example
 
 src/main/resources/application.properties
-
-CLAUDE.md
